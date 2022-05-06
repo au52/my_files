@@ -8,3 +8,5 @@ a = browser.find_element_by_id("button")
 print(a.text)
 
 browser.close()
+
+# Проверка отправки изменений на репозит
