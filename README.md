@@ -1,2 +1,2 @@
 # my_files
-Учебный репозиторий my_files для пользователя au52.
+The my_files training repository for the au52 user.
